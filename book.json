@@ -1,8 +1,8 @@
 {
-  "title": "Didactic Art of The Little Books",
-  "subtitle": "An analysis of Dan and his friends' great teaching style",
+  "title": "小小书的教学艺术",
+  "subtitle": "Didactic Art of The Little Books -- an analysis of Dan and his friends' great teaching style",
   "version": "0.0.2",
-  "authors": ["Xie Yuheng"],
+  "authors": ["谢宇恒"],
   "date": "2021",
   "src": "src"
 }
